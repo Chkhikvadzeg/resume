@@ -1,33 +1,9 @@
-\documentclass[10pt,letterpaper]{article}
-\usepackage[margin=0.75in]{geometry}
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
-\usepackage[stretch=10]{microtype}
-\usepackage{hyperref}
-\hypersetup{
-    colorlinks=true,
-    linkcolor=violet,
-    filecolor=magenta,      
-    urlcolor=blue,
-    pdftitle={Overleaf Example},
-    pdfpagemode=FullScreen,
-    }
-\usepackage{tgpagella}
-\usepackage{enumitem}
-\usepackage{indentfirst}
-\pagestyle{empty}
+# Giorgi Chkhikvadze
 
-\begin{document}
- 
-% <header>
-\begin{center}
-{\huge \textbf{Giorgi Chkhikvadze}}
-
-\vspace{1em}
-
-\href{mailto:giorgichxikvadze972@gmail.com}{giorgichxikvadze972@gmail.com} \ \ \textbullet \ \  \href{https://www.linkedin.com/in/giorgi-chkhikvadze-3b4316241/}{Linkedin}  \ \ \textbullet \ \ \href{tel:+995555638800}{+995 555 63 88 00}  \ \ \textbullet \ \ \href{https://github.com/chkhikvadzeg}{Github}
-\end{center}
-% </header>
+- [giorgichxikvadze972@gmail.com](giorgichxikvadze972@gmail.commailto:giorgichxikvadze972@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/giorgi-chkhikvadze-3b4316241/)
+- [+995 555 63 88 00](tel:+995555638800)
+- [Github](https://github.com/chkhikvadzeg)
 
 % <skills>
 \hrule
