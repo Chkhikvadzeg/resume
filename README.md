@@ -34,12 +34,12 @@ I am a focused professional  who has been consistently praised as hard-working b
 
 
 ### Education
-1. Tbilisi State University
-2. Bitcamp
+1. Bitcamp - [Full Stack Development 2022]
+2. Tbilisi State University - [Business Administration 2019-2023] 
  
  ### Languages:
  1. English
- 2.  Georgian
+ 2. Georgian
 
 ### Tech I use and love:
 - JavaScript
