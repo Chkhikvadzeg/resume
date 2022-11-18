@@ -60,4 +60,3 @@ I am a focused professional  who has been consistently praised as hard-working b
 - Next.js
 - React Native
 
-\end{document}
