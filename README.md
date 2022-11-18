@@ -59,7 +59,5 @@ I am a focused professional  who has been consistently praised as hard-working b
 - TailwindCSS
 - Next.js
 - React Native
-\end{itemize}
-% </skills>
 
 \end{document}
